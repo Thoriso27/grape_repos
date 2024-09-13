@@ -1,0 +1,524 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 10px;
+  }
+  .v37_45 {
+    width: 100%;
+    height: 800px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v37_46 { /*for voter dashboard*/
+    width: 50%;
+    height: 80px;
+    
+    opacity: 1;
+    position: absolute;
+    top: 200px;
+    left: 350px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    overflow: hidden;
+  }
+  .v37_47 {/*for voter dashboard*/
+    width: 620px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 23px;
+    left: 360px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 50px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v37_48 {
+    width: 328px;
+    height: 235px;
+    background: url("C://Users//Thandiwe//Desktop//family farm fresh//SecureVotingSystem//images//v37_48.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 200px;
+    left: 311px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  .v37_49 {
+    width: 333px;
+    height: 235px;
+    background: url("C://Users//Thandiwe//Desktop//family farm fresh//SecureVotingSystem//images//v37_49.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 200px;
+    left: 992px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  .v37_50 {
+    width: 333px;
+    height: 235px;
+    background-image: url("C://Users//Thandiwe//Desktop//family farm fresh//SecureVotingSystem//images//v37_50.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 200px;
+    left: 649px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  .v37_51 { /*category list*/
+    width: 274px;
+    height: 500px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 50px;
+    left: 2px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    overflow: hidden;
+  }
+  .v37_51 img {
+    position: absolute;
+    bottom: 0;
+    left: 14px;
+    width:246px ;
+    height: 200px; ;
+  }
+  .v37_52 {/*for category*/
+    width: 221px;
+    height: 55px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 90px;
+    left: 35px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+ 
+  
+  .v37_54 {/*for president*/
+    width: 211px;
+    height: 49px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 150px;
+    left: 40px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+    
+  }
+  .v37_55 {/*for councillor*/
+    width: 211px;
+    height: 49px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 260px;
+    left: 40px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+    
+  }
+  .v187_7 { /*for councillor*/
+    width: 121px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 270px;
+    left: 46px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v37_57 { /*for vice president*/
+    width: 211px;
+    height: 49px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 205px;
+    left: 40px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  .v37_58 { /*for vice president*/
+    width: 164px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 215px;
+    left: 48px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v37_59 {          /*for category*/
+    width: 106px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 100px;
+    left: 42px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v37_60 {/*for president*/
+    width: 108px;
+    
+    position: absolute;
+    top: 160px;
+    left: 45px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v37_61 { /*for click me boxes mr bandda*/
+    width: 195px;
+    height: 70px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 490px;
+    left: 378px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  .v37_61 img{
+    height: 100%;
+    width: 100%;
+  }
+   .v37_62 {   /*for click me boxes mr.phiri */
+    width: 195px;
+    height: 70px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 490px;
+    left: 710px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+.v37_62 img{  /*for click me boxes mr.phiri */
+  
+    height: 100%;
+    width: 100%;
+  
+  
+}
+  .v37_63 { /*for click me boxes mr phiri*/
+    width: 123px;
+    color: rgba(102,89,89,1);
+    position: absolute;
+    top: 530px;
+    left: 754px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v37_64 {  /*for click me boxes mr gama */
+    width: 195px;
+    height: 70px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 490px;
+    left: 1034px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  .v37_64 img{
+    height: 100%;
+    width: 100%;
+  }
+  .v37_65 { /*for click me boxes  mr gama*/
+    width: 123px;
+    color: rgba(102,89,89,1);
+    position: absolute;
+    top: 530px;
+    left: 1084px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v37_66 { /*for click me boxes mr banda */
+    width: 123px;
+    color: rgba(102,89,89,1);
+    position: absolute;
+    top: 530px;
+    left: 402px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v37_67 {  /*for presidential candidate */
+    width: 750px;
+    height: 65px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 100px;
+    left: 334px;
+    overflow: hidden;
+  }
+  .v37_68 {/*for presidential candidate */
+    width: 600px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 115px;
+    left: 360px;
+    font-family: Inter;
+    
+    font-size: 24px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v37_69 {  /*for nametags for presidential candidate*/
+    width: 287px;
+    height: 34px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 450px;
+    left: 344px;
+    overflow: hidden;
+  }
+  .v37_70 { /*for nametags for presidential candidate mr banda*/
+    width: 150px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 455px;
+    left: 420px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v37_71 {/*for nametags for presidential candidate mr phiri*/
+    width: 287px;
+    height: 34px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 450px;
+    left: 672px;
+    overflow: hidden;
+  }
+  .v37_72 {/*for nametags for presidential candidate mr gama*/
+    width: 287px;
+    height: 34px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 450px;
+    left: 1015px;
+    overflow: hidden;
+  }
+  .v37_73 {
+    width: 150px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 455px;
+    left: 1088px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v37_74 {
+    width: 150px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 455px;
+    left: 740px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v37_75 {
+    width: 200px;
+    height: 30px;
+    background: rgb(102, 74, 231);
+    opacity: 1;
+    position: absolute;
+    top: 600px;
+    left: 700px;border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  .v37_76 {
+    width: 104px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 600px;
+    left: 760px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+
+    
+ 
+  }
+  .decorated_btn{
+    background-color:rgb(102, 74, 231) ;
+    color: darkgray;
+    position: absolute;
+    cursor: pointer;
+    border: none;
+    font-size: 24px;
+    transition: background-color 0.3s ,transform 0.3s;
+  }
+  
+  
+  button {
+    background-color: rgb(102, 74, 231) ;
+    color: white;
+   
+}
+
+button:active {
+    background-color: rgb(174, 36, 70);
+    transform: translateY(4px);
+}
+.container1{
+  width: 40%;
+    height: 500px;
+    background-color: darkgrey;
+    opacity: 1;
+    position: absolute;
+    top: 100px;
+    left: 450px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    overflow: hidden;
+
+}
+.text-1{
+  width: 450px;
+  height: 65px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  overflow: hidden;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center; 
+  font-family: Inter;
+     
+}
+.text-3{
+  width: 450px;
+    color: rgba(0,0,0,1);
+    top: 250px;
+    left: 500px;
+    font-family: Inter;
+    position: absolute;
+    font-size: 24px;
+    opacity: 1;
+    text-align: center;}
+.text-2{
+  width: 450px;
+  height: 150px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  
+    color: rgba(0,0,0,1);
+    top: 350px;
+    left: 500px;
+    font-family: Inter;
+    position: absolute;
+    font-size: 24px;
+    opacity: 1;
+    text-align: center;}
+
+
+
+  
+    
+  
+  
